@@ -5,4 +5,5 @@ Used some hls4ml option to reduce board utilazation.
 Environment set up
 
 $conda env create -f environment.yml
+
 $conda activate hls4ml
