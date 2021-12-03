@@ -8,3 +8,7 @@ Environment set up
 $conda env create -f environment.yml
 
 $conda activate hls4ml
+
+Install ViVado 2019.2 on server!
+
+Generate .bit, .hwh, x_test.npy, y_test.npy files and upload tutorial 6 jupyter 0note book file on the board.
